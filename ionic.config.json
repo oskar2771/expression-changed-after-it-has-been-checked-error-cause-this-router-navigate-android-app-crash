@@ -1,0 +1,8 @@
+{
+  "name": "ExpressionChangedAfterItHasBeenCheckedError cause this.router.navigate android app crash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3ed0ae78"
+}
